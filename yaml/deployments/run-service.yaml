@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:Cyber-Redneck-workshop-application-ab610c24b4c3d9639a6b1e1c026f762eaa9ad049
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:Cyber-Redneck-workshop-application-7f2e93f5d97b00aecec0a03cacb4d04bb9bbb7e7
         imagePullPolicy: Always
         name: pause
         resources: {}
